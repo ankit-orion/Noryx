@@ -1,0 +1,16 @@
+{
+  "name": "noryx",
+  "version": "1.0.0",
+  "description": "A developer-first platform for managing projects, workflows, tasks, and team collaboration.",
+  "license": "ISC",
+  "author": "Ankit Mishra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.10"
+  }
+}
